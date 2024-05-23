@@ -96,11 +96,21 @@ The application provides valuable insights that assist in making strategic decis
 
 ### Streamlit Sharing
 1. **Push your project to GitHub**: Ensure your project is available in a GitHub repository.
-2. **Create an account on Streamlit Sharing**: Go to [Streamlit Sharing](https://streamlit.io/sharing) and sign up or log in.
-3. **Deploy your app**: Follow the instructions on Streamlit Sharing to deploy your app from your GitHub repository.
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/yourusername/yourrepository.git
+   git push -u origin main
+2. Create an account on Streamlit Sharing: Go to Streamlit Sharing and sign up or log in.
 
-## Contact Information
+3. Deploy your app: Follow the instructions on Streamlit Sharing to deploy your app from your GitHub repository.
+
+### Contact Information
+
 For further assistance, please contact:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **Phone**: [Your Phone Number]
+
+**Name:** Gopal Bagaswar  
+**Email:** [gopalbagaswar19@gmail.com](mailto:gopalbagaswar19@gmail.com)  
+**LinkedIn:** [Gopal Bagaswar](https://www.linkedin.com/in/gopal-bagaswar/)
